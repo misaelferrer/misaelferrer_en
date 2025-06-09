@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/35177416?s=400&u=e955ea961469760d4217169ff6397d4961363098&v=4" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
+
 # Misael Ferrer
 
 Cloud / Senior Developer · Artificial Intelligence · Business Intelligence · Data Integration · Solutions Architect · Big Data  
